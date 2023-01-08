@@ -1,4 +1,4 @@
-{
+module.exports = {
   "compilerOptions": {
     "moduleResolution": "node",
     "target": "esnext",
